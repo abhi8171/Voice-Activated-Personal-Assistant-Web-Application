@@ -9,3 +9,5 @@ A voice-activated virtual assistant web app using HTML, CSS, and JavaScript.
 - **Fallback Search**: If the command is not recognized, the assistant opens a Google search with the spoken phrase.
 
 ## Demo
+
+![Voice-Activated Assistant Screenshot](./screenshot.png)
