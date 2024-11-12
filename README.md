@@ -10,4 +10,4 @@ A voice-activated virtual assistant web app using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Voice-Activated Assistant Screenshot](./screenshot.png)
+![Voice-Activated Assistant Screenshot](./Screenshot.png)
